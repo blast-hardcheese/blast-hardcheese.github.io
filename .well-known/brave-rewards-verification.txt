@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: blast-hardcheese.github.io
+Token: 165ab8ac2c657248ee9925ef38e7e944d388099e56d4e4281a4f9933e9d40f5f
